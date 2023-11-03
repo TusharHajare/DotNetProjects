@@ -1,0 +1,17 @@
+C:\Users\tushar.hajare\source\repos\PizzaNetSolution\PizzaStoreBLLibrary\bin\Debug\net6.0\PizzaStoreBLLibrary.deps.json
+C:\Users\tushar.hajare\source\repos\PizzaNetSolution\PizzaStoreBLLibrary\bin\Debug\net6.0\PizzaStoreBLLibrary.dll
+C:\Users\tushar.hajare\source\repos\PizzaNetSolution\PizzaStoreBLLibrary\bin\Debug\net6.0\PizzaStoreBLLibrary.pdb
+C:\Users\tushar.hajare\source\repos\PizzaNetSolution\PizzaStoreBLLibrary\bin\Debug\net6.0\PizzaStoreDallLibrary.dll
+C:\Users\tushar.hajare\source\repos\PizzaNetSolution\PizzaStoreBLLibrary\bin\Debug\net6.0\PizzaStoreModelLibrary.dll
+C:\Users\tushar.hajare\source\repos\PizzaNetSolution\PizzaStoreBLLibrary\bin\Debug\net6.0\PizzaStoreDallLibrary.pdb
+C:\Users\tushar.hajare\source\repos\PizzaNetSolution\PizzaStoreBLLibrary\bin\Debug\net6.0\PizzaStoreModelLibrary.pdb
+C:\Users\tushar.hajare\source\repos\PizzaNetSolution\PizzaStoreBLLibrary\obj\Debug\net6.0\PizzaStoreBLLibrary.csproj.AssemblyReference.cache
+C:\Users\tushar.hajare\source\repos\PizzaNetSolution\PizzaStoreBLLibrary\obj\Debug\net6.0\PizzaStoreBLLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tushar.hajare\source\repos\PizzaNetSolution\PizzaStoreBLLibrary\obj\Debug\net6.0\PizzaStoreBLLibrary.AssemblyInfoInputs.cache
+C:\Users\tushar.hajare\source\repos\PizzaNetSolution\PizzaStoreBLLibrary\obj\Debug\net6.0\PizzaStoreBLLibrary.AssemblyInfo.cs
+C:\Users\tushar.hajare\source\repos\PizzaNetSolution\PizzaStoreBLLibrary\obj\Debug\net6.0\PizzaStoreBLLibrary.csproj.CoreCompileInputs.cache
+C:\Users\tushar.hajare\source\repos\PizzaNetSolution\PizzaStoreBLLibrary\obj\Debug\net6.0\PizzaStoreBLLibrary.csproj.CopyComplete
+C:\Users\tushar.hajare\source\repos\PizzaNetSolution\PizzaStoreBLLibrary\obj\Debug\net6.0\PizzaStoreBLLibrary.dll
+C:\Users\tushar.hajare\source\repos\PizzaNetSolution\PizzaStoreBLLibrary\obj\Debug\net6.0\refint\PizzaStoreBLLibrary.dll
+C:\Users\tushar.hajare\source\repos\PizzaNetSolution\PizzaStoreBLLibrary\obj\Debug\net6.0\PizzaStoreBLLibrary.pdb
+C:\Users\tushar.hajare\source\repos\PizzaNetSolution\PizzaStoreBLLibrary\obj\Debug\net6.0\ref\PizzaStoreBLLibrary.dll

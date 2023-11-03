@@ -1,0 +1,11 @@
+C:\Users\tushar.hajare\source\repos\PizzaNetSolution\PizzaStoreModelLibrary\obj\Debug\net6.0\PizzaStoreModelLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tushar.hajare\source\repos\PizzaNetSolution\PizzaStoreModelLibrary\obj\Debug\net6.0\PizzaStoreModelLibrary.AssemblyInfoInputs.cache
+C:\Users\tushar.hajare\source\repos\PizzaNetSolution\PizzaStoreModelLibrary\obj\Debug\net6.0\PizzaStoreModelLibrary.AssemblyInfo.cs
+C:\Users\tushar.hajare\source\repos\PizzaNetSolution\PizzaStoreModelLibrary\obj\Debug\net6.0\PizzaStoreModelLibrary.csproj.CoreCompileInputs.cache
+C:\Users\tushar.hajare\source\repos\PizzaNetSolution\PizzaStoreModelLibrary\bin\Debug\net6.0\PizzaStoreModelLibrary.deps.json
+C:\Users\tushar.hajare\source\repos\PizzaNetSolution\PizzaStoreModelLibrary\bin\Debug\net6.0\PizzaStoreModelLibrary.dll
+C:\Users\tushar.hajare\source\repos\PizzaNetSolution\PizzaStoreModelLibrary\bin\Debug\net6.0\PizzaStoreModelLibrary.pdb
+C:\Users\tushar.hajare\source\repos\PizzaNetSolution\PizzaStoreModelLibrary\obj\Debug\net6.0\PizzaStoreModelLibrary.dll
+C:\Users\tushar.hajare\source\repos\PizzaNetSolution\PizzaStoreModelLibrary\obj\Debug\net6.0\refint\PizzaStoreModelLibrary.dll
+C:\Users\tushar.hajare\source\repos\PizzaNetSolution\PizzaStoreModelLibrary\obj\Debug\net6.0\PizzaStoreModelLibrary.pdb
+C:\Users\tushar.hajare\source\repos\PizzaNetSolution\PizzaStoreModelLibrary\obj\Debug\net6.0\ref\PizzaStoreModelLibrary.dll
